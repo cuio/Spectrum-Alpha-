@@ -1,0 +1,9 @@
+Building SpectrumAlpha
+
+See doc/readme-qt.rst for instructions on building SpectrumAlpha-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SpectrumAlpha.
+
+See doc/build-*.txt for instructions on building spectrumalphad,
+the intended-for-services, no-graphical-interface, reference
+implementation of SpectrumAlpha.
